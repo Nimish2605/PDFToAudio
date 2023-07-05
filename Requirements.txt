@@ -1,0 +1,3 @@
+#Python Libraries Required
+pyttsx3
+pdfplumber
